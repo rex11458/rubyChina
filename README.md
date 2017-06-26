@@ -7,7 +7,7 @@
   <div>
    <dl>
     <dt>第三方库：</dt>
-<dd><a href="https://github.com/react-community/react-navigation">react-navigationreact-navigation</a></dd>
+<dd><a href="https://github.com/react-community/react-navigation">react-navigation</a></dd>
 <dd><a href="https://github.com/oblador/react-native-vector-icons">react-native-vector-icons</a></dd>
 <dd><a href="https://github.com/rebeccahughes/react-native-device-info">react-native-device-info</a></dd>
 <dd><a href="">react-native-timeago</a></dd>
